@@ -1,6 +1,3 @@
-Hello,git!
-Привет!
-Другая строка
-
+Hello, git!
 Hello, world!
 Hello, git rebase!
